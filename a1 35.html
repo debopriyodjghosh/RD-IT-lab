@@ -1,0 +1,114 @@
+﻿<!DOCTYPE html>
+<!--Debopriyo Ghosh roll 35 Btech 6th sem 2021-->
+<html>
+<head>
+<title>Digital Clock</title>
+<style>
+body {
+  background-color: grey;
+}
+#time {
+			font-size: 50px;
+			width: 900px;
+			margin: 20px;
+			text-align: center;
+			border: 5px solid black;
+			border-radius: 10px;
+		}
+#time2 {
+			font-size: 50px;
+			width: 900px;
+			margin: 20px;
+			text-align: center;
+			border: 2px solid black;
+			border-radius: 10px;
+}
+</style>
+	<script>
+var h;
+var m;
+var s;
+var today;
+var ht;
+var mt;
+var st;
+
+function show(){
+	var f=0;
+	today= new Date();
+	document.getElementById("time").innerHTML=today;
+}
+
+var t = setInterval(show, 1000);
+function givedate(){
+	year=today.getFullYear();
+	month=today.getMonth();
+	day=today.getDay();
+	date=today.getDate();
+	h=document.getElementById("hour").value
+	m=document.getElementById("min").value
+	s=document.getElementById("sec").value
+	gdate=new Date(year, month, date, h, m, s);
+	document.getElementById("time2").innerHTML=gdate;
+}
+function hour(){
+	givedate();
+	if(h<today.getHours()){
+		clearInterval(t);
+		document.getElementById("time").style.color="red";
+		clearInterval(ht);
+	}
+}
+function hours(){
+	ht=setInterval(hour,1000);
+}
+function minute(){
+	givedate();
+	clearInterval(ht);
+	if(h==today.getHours()&&m<today.getMinutes()){
+		clearInterval(t);
+		document.getElementById("time").style.color="red";
+		clearInterval(mt);
+	}
+	
+}
+function minutes(){
+	mt=setInterval(minute,1000);
+}
+function second(){
+	givedate();
+	clearInterval(mt);
+	if(h==today.getHours()&&m==today.getMinutes()&&s<=today.getSeconds()){
+		clearInterval(t);
+		document.getElementById("time").style.color="red";
+		clearInterval(st);
+	}
+	document.getElementById("time3").innerHTML=st;
+}
+function seconds(){
+	st=setInterval(second,1000);
+}
+</script>
+</head>
+<body>
+
+<h1>Put a Time for check</h1>
+
+<span><h2>Time Now:</h2></span>
+<div id="time"></div>
+
+<span><h2>Given time:</h2></span>
+<div id="time2"></div>
+
+
+
+<h5>After inputing value take mouse out of the input box</h5>
+
+<div><h2>
+	<span>Hour  :  <input onblur =" hours()" id="hour" type="text" name="Hour" ></span><br>
+	<span>Minute:<input onblur ="minutes()" id="min" type="text" name="Min" ></span><br>
+	<span>Second:<input onblur ="seconds()" id="sec" type="text" name="Sec" ></span></h2>
+</div>
+
+</body>
+</html>
