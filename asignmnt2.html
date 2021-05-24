@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+    	<meta charset="utf-8">
+        <title>Number</title>
+<style>
+
+html {
+    padding: 1%;
+    margin: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    padding: 2%;
+}
+
+img {
+    height: 125px;
+    width: 125px;
+}
+
+#num {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+#input_box {
+    border: 2px solid blue;
+    border-radius: 5px;
+    width: 540px;
+    font-size: 25px;
+}
+#output_box {
+
+    font-size: 50px;
+}
+</style>
+
+	</head>
+
+    <body>
+        <div id="input_box" class="input">
+            <label for="num">Enter a number (1 - 9): &nbsp</label>
+            <input id="num" onkeyup="display()"><br>
+        </div><br>
+
+        <hr>
+
+        <div id="output_box"></div>
+
+        <script>var count_current = 0;
+var digits = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+var output = document.getElementById('output_box');
+var regexp = /^[1-9]+/i ;
+
+function display(){
+  var current_val = document.getElementById('num').value;
+  if(regexp.test(current_val)){
+    numDis();
+  }
+  else {
+    console.log('Input is not a number');
+  }
+}
+            
+function numDis(){
+  const current_val = Number(document.getElementById('num').value);
+  if(current_val > output.childNodes.length){
+    var elt = document.createElement('img');
+    elt.src = './image/' + digits[count_current] + '.jpg';
+    output.appendChild(elt);
+    count_current++;
+    var t = setTimeout(numDis,1000);
+  }else if (current_val < count_current){
+    output.removeChild(output.childNodes[count_current-1]);
+    if(count_current !== current_val){
+      count_current--;
+      var t = setTimeout(numDis,1000);
+    }
+    else{
+      clearTimeout(t);
+    }
+  }
+}</script>
+    </body>
+	
+</html>
