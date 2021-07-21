@@ -1,0 +1,17 @@
+Assignments
+
+3. Create a database person with table info (first name, last name, age, department, address);
+
+   Use Ajax to retrieve a list of first names when the first few characters of first name is typed.
+   Use Ajax to retrieve the detail information of the person when any of the firstnames in the list is clicked.
+
+4. Use ajax to upload single/multiple file to server. Check before uploading that total file size is less than 1MB.
+
+
+5. Create an XML document  with a list of books and each book having children (title, authors, cost, publ;isher)
+
+  use Ajax to retrieve the XML document.
+
+  Take HTML input (category of book and first few characters of author) and then
+ and then list all books matching these criteria. For each book print also the default name space of that book.
+  
