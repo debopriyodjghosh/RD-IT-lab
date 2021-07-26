@@ -1,0 +1,30 @@
+<html>
+
+<head></head>
+
+<body>
+    <h3> Enter first few characters of Artist's name </h3>
+    <input id="name" value="" onkeyup="suggest(this.value)" />
+    <br>
+    <br>
+
+    <div id="display"> </div>
+
+    <script>
+        function suggest(h) {
+            if (h.length < 1) {
+                document.getElementById("display").innerHTML = "";
+                return;
+            }
+            var x = new XMLHttpRequest();
+            x.onreadystatechange = function() {
+                if (x.readyState == 4 && x.status == 200)
+                    document.getElementById("display").innerHTML = x.responseText;
+            }
+            x.open("GET", "cdr.php?q=" + h, true);
+            x.send();
+        }
+    </script>
+</body>
+
+</html>

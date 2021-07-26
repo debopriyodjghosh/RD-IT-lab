@@ -1,0 +1,887 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <BOOK>
+    <TITLE>XML Developer's Guide</TITLE>
+    <AUTHORS>Gambardella, Matthew</AUTHORS>
+    <PUBLISHER>Columbia</PUBLISHER>
+    <COST>10.90</COST>
+    <YEAR>1985</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Hide your heart</TITLE>
+    <AUTHORS>Bonnie Tyler</AUTHORS>  
+    <PUBLISHER>CBS Records</PUBLISHER>
+    <COST>9.90</COST>
+    <YEAR>1988</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Midnight Rain</TITLE>
+    <AUTHORS>Ralls, Kim</AUTHORS>
+    <PUBLISHER>RCA</PUBLISHER>
+    <COST>9.90</COST>
+    <YEAR>1982</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Still got the blues</TITLE>
+    <AUTHORS>Gary Moore</AUTHORS>
+    <PUBLISHER>Virgin records</PUBLISHER>
+    <COST>10.20</COST>
+    <YEAR>1990</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Eros</TITLE>
+    <AUTHORS>Eros Ramazzotti</AUTHORS>
+    <PUBLISHER>BMG</PUBLISHER>
+    <COST>9.90</COST>
+    <YEAR>1997</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>One night only</TITLE>
+    <AUTHORS>Bee Gees</AUTHORS>
+    <PUBLISHER>Polydor</PUBLISHER>
+    <COST>10.90</COST>
+    <YEAR>1998</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Sylvias Mother</TITLE>
+    <AUTHORS>Dr.Hook</AUTHORS>
+    <PUBLISHER>CBS</PUBLISHER>
+    <COST>8.10</COST>
+    <YEAR>1973</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Maggie May</TITLE>
+    <AUTHORS>Rod Stewart</AUTHORS>
+    <PUBLISHER>Pickwick</PUBLISHER>
+    <COST>8.50</COST>
+    <YEAR>1990</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Romanza</TITLE>
+    <AUTHORS>Andrea Bocelli</AUTHORS>
+    <PUBLISHER>Polydor</PUBLISHER>
+    <COST>10.80</COST>
+    <YEAR>1996</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>When a man loves a woman</TITLE>
+    <AUTHORS>Percy Sledge</AUTHORS>
+    <PUBLISHER>Atlantic</PUBLISHER>
+    <COST>8.70</COST>
+    <YEAR>1987</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Black angel</TITLE>
+    <AUTHORS>Savage Rose</AUTHORS>
+    <PUBLISHER>Mega</PUBLISHER>
+    <COST>10.90</COST>
+    <YEAR>1995</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>1999 Grammy Nominees</TITLE>
+    <AUTHORS>Many</AUTHORS>
+    <PUBLISHER>Grammy</PUBLISHER>
+    <COST>10.20</COST>
+    <YEAR>1999</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>For the good times</TITLE>
+    <AUTHORS>Kenny Rogers</AUTHORS>
+    <PUBLISHER>Mucik Master</PUBLISHER>
+    <COST>8.70</COST>
+    <YEAR>1995</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Big Willie style</TITLE>
+    <AUTHORS>Will Smith</AUTHORS>
+    <PUBLISHER>Columbia</PUBLISHER>
+    <COST>9.90</COST>
+    <YEAR>1997</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Tupelo Honey</TITLE>
+    <AUTHORS>Van Morrison</AUTHORS>
+    <PUBLISHER>Polydor</PUBLISHER>
+    <COST>8.20</COST>
+    <YEAR>1971</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Soulsville</TITLE>
+    <AUTHORS>Jorn Hoel</AUTHORS>
+     Norway  
+    <PUBLISHER>WEA</PUBLISHER>
+    <COST>7.90</COST>
+    <YEAR>1996</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>The very best of</TITLE>
+    <AUTHORS>Cat Stevens</AUTHORS>
+    <PUBLISHER>Island</PUBLISHER>
+    <COST>8.90</COST>
+    <YEAR>1990</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Stop</TITLE>
+    <AUTHORS>Sam Brown</AUTHORS>
+    <PUBLISHER>A and M</PUBLISHER>
+    <COST>8.90</COST>
+    <YEAR>1988</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Bridge of Spies</TITLE>
+    <AUTHORS>T'Pau</AUTHORS>
+    <PUBLISHER>Siren</PUBLISHER>
+    <COST>7.90</COST>
+    <YEAR>1987</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Private Dancer</TITLE>
+    <AUTHORS>Tina Turner</AUTHORS>
+    <PUBLISHER>Capitol</PUBLISHER>
+    <COST>8.90</COST>
+    <YEAR>1983</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Midt om natten</TITLE>
+    <AUTHORS>Kim Larsen</AUTHORS>
+    <PUBLISHER>Medley</PUBLISHER>
+    <COST>7.80</COST>
+    <YEAR>1983</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Pavarotti Gala Concert</TITLE>
+    <AUTHORS>Luciano Pavarotti</AUTHORS>
+    <PUBLISHER>DECCA</PUBLISHER>
+    <COST>9.90</COST>
+    <YEAR>1991</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>The dock of the bay</TITLE>
+    <AUTHORS>Otis Redding</AUTHORS>
+    <PUBLISHER>Stax Records</PUBLISHER>
+    <COST>7.90</COST>
+    <YEAR>1968</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Picture book</TITLE>
+    <AUTHORS>Simply Red</AUTHORS>
+    <PUBLISHER>Elektra</PUBLISHER>
+    <COST>7.20</COST>
+    <YEAR>1985</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Red</TITLE>
+    <AUTHORS>The Communards</AUTHORS>
+    <PUBLISHER>London</PUBLISHER>
+    <COST>7.80</COST>
+    <YEAR>1987</YEAR>
+  </BOOK>
+  <BOOK>
+    <TITLE>Unchain my heart</TITLE>
+    <AUTHORS>Joe Cocker</AUTHORS>
+    <PUBLISHER>EMI</PUBLISHER>
+    <COST>8.20</COST>
+    <YEAR>1987</YEAR>
+  </BOOK>
+  
+	<BOOK>
+		<TITLE>Ratliff, Montana T.</TITLE>
+		<AUTHORS>Richard</AUTHORS>
+		<PUBLISHER>Rachel I. Cochran</PUBLISHER>
+		<COST>$6,156</COST>
+		<YEAR>Jan 26, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Palmer, Evelyn S.</TITLE>
+		<AUTHORS>Eric</AUTHORS>
+		<PUBLISHER>Clayton Y. Espinoza</PUBLISHER>
+		<COST>$9,673</COST>
+		<YEAR>Sep 4, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Richard, Justina J.</TITLE>
+		<AUTHORS>Kylan</AUTHORS>
+		<PUBLISHER>Craig Moran</PUBLISHER>
+		<COST>$5,664</COST>
+		<YEAR>Mar 28, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Gillespie, Bruno W.</TITLE>
+		<AUTHORS>Malik</AUTHORS>
+		<PUBLISHER>Leroy F. Wright</PUBLISHER>
+		<COST>$6,725</COST>
+		<YEAR>Oct 25, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Buckley, Rhoda N.</TITLE>
+		<AUTHORS>Dylan</AUTHORS>
+		<PUBLISHER>Sonya Q. Hanson</PUBLISHER>
+		<COST>$5,801</COST>
+		<YEAR>Mar 7, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hester, Slade R.</TITLE>
+		<AUTHORS>Lucas</AUTHORS>
+		<PUBLISHER>Gabriel Robinson</PUBLISHER>
+		<COST>$9,711</COST>
+		<YEAR>Dec 6, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Clements, Brennan O.</TITLE>
+		<AUTHORS>Grace</AUTHORS>
+		<PUBLISHER>Tanya Q. Briggs</PUBLISHER>
+		<COST>$9,060</COST>
+		<YEAR>Mar 9, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Stokes, Orli S.</TITLE>
+		<AUTHORS>Kareem</AUTHORS>
+		<PUBLISHER>Buffy Frost</PUBLISHER>
+		<COST>$8,267</COST>
+		<YEAR>Jun 16, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Mathis, Talon P.</TITLE>
+		<AUTHORS>Jordan</AUTHORS>
+		<PUBLISHER>Sawyer Mcdaniel</PUBLISHER>
+		<COST>$6,200</COST>
+		<YEAR>May 9, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Benjamin, Elliott U.</TITLE>
+		<AUTHORS>Astra</AUTHORS>
+		<PUBLISHER>Charles Ellis</PUBLISHER>
+		<COST>$6,876</COST>
+		<YEAR>Aug 21, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Wilkins, Wynter V.</TITLE>
+		<AUTHORS>Phelan</AUTHORS>
+		<PUBLISHER>Camden D. Eaton</PUBLISHER>
+		<COST>$8,315</COST>
+		<YEAR>May 7, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Vincent, Noelani Y.</TITLE>
+		<AUTHORS>Cherokee</AUTHORS>
+		<PUBLISHER>Kameko T. Le</PUBLISHER>
+		<COST>$6,567</COST>
+		<YEAR>Nov 27, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Baker, Reece A.</TITLE>
+		<AUTHORS>Meghan</AUTHORS>
+		<PUBLISHER>Zeph Holder</PUBLISHER>
+		<COST>$5,590</COST>
+		<YEAR>Aug 3, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Castillo, Aquila R.</TITLE>
+		<AUTHORS>Karen</AUTHORS>
+		<PUBLISHER>Malcolm Savage</PUBLISHER>
+		<COST>$7,546</COST>
+		<YEAR>Oct 1, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Briggs, Tate D.</TITLE>
+		<AUTHORS>Quin</AUTHORS>
+		<PUBLISHER>Alden C. Spencer</PUBLISHER>
+		<COST>$8,022</COST>
+		<YEAR>Apr 30, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Frazier, Suki D.</TITLE>
+		<AUTHORS>Regan</AUTHORS>
+		<PUBLISHER>Remedios S. Salazar</PUBLISHER>
+		<COST>$8,195</COST>
+		<YEAR>Jan 31, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Noel, Uriah S.</TITLE>
+		<AUTHORS>Berk</AUTHORS>
+		<PUBLISHER>Marcia K. Leonard</PUBLISHER>
+		<COST>$6,435</COST>
+		<YEAR>Jul 2, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Estes, Althea C.</TITLE>
+		<AUTHORS>Carissa</AUTHORS>
+		<PUBLISHER>Zephania G. Hayes</PUBLISHER>
+		<COST>$8,499</COST>
+		<YEAR>Mar 21, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Brady, Keefe A.</TITLE>
+		<AUTHORS>Amaya</AUTHORS>
+		<PUBLISHER>Yardley Simmons</PUBLISHER>
+		<COST>$7,212</COST>
+		<YEAR>Sep 12, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Mcneil, Craig W.</TITLE>
+		<AUTHORS>Rogan</AUTHORS>
+		<PUBLISHER>Mason I. Dean</PUBLISHER>
+		<COST>$5,550</COST>
+		<YEAR>Oct 31, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Kim, Clarke W.</TITLE>
+		<AUTHORS>Shay</AUTHORS>
+		<PUBLISHER>Colton Burt</PUBLISHER>
+		<COST>$9,355</COST>
+		<YEAR>Oct 11, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Nolan, Jerry P.</TITLE>
+		<AUTHORS>Mikayla</AUTHORS>
+		<PUBLISHER>Maggy H. Cabrera</PUBLISHER>
+		<COST>$5,526</COST>
+		<YEAR>Mar 21, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hoover, Savannah M.</TITLE>
+		<AUTHORS>Lester</AUTHORS>
+		<PUBLISHER>Tucker H. Jacobson</PUBLISHER>
+		<COST>$9,411</COST>
+		<YEAR>Jul 6, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hicks, Bruce X.</TITLE>
+		<AUTHORS>Nasim</AUTHORS>
+		<PUBLISHER>Jasmine Z. Kaufman</PUBLISHER>
+		<COST>$9,177</COST>
+		<YEAR>Oct 30, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Mercer, Adam I.</TITLE>
+		<AUTHORS>Kane</AUTHORS>
+		<PUBLISHER>Elliott Y. Owen</PUBLISHER>
+		<COST>$7,857</COST>
+		<YEAR>Jun 5, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rodgers, Burton J.</TITLE>
+		<AUTHORS>Iona</AUTHORS>
+		<PUBLISHER>Maia E. Sweet</PUBLISHER>
+		<COST>$7,937</COST>
+		<YEAR>Feb 12, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Lancaster, Avram L.</TITLE>
+		<AUTHORS>Guy</AUTHORS>
+		<PUBLISHER>Suki Y. Lawson</PUBLISHER>
+		<COST>$6,212</COST>
+		<YEAR>Nov 14, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Buck, Reese W.</TITLE>
+		<AUTHORS>Ivor</AUTHORS>
+		<PUBLISHER>Lenore Beard</PUBLISHER>
+		<COST>$7,059</COST>
+		<YEAR>Oct 12, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Michael, Joelle V.</TITLE>
+		<AUTHORS>Trevor</AUTHORS>
+		<PUBLISHER>Moana J. Downs</PUBLISHER>
+		<COST>$9,472</COST>
+		<YEAR>Mar 10, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rasmussen, Erica S.</TITLE>
+		<AUTHORS>Naomi</AUTHORS>
+		<PUBLISHER>Yvonne V. Gallegos</PUBLISHER>
+		<COST>$7,687</COST>
+		<YEAR>Apr 18, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Kaufman, Arthur Y.</TITLE>
+		<AUTHORS>Flynn</AUTHORS>
+		<PUBLISHER>Carolyn B. Chavez</PUBLISHER>
+		<COST>$9,306</COST>
+		<YEAR>Dec 29, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Houston, Guy Z.</TITLE>
+		<AUTHORS>Ahmed</AUTHORS>
+		<PUBLISHER>Vielka Hobbs</PUBLISHER>
+		<COST>$5,505</COST>
+		<YEAR>Sep 16, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Contreras, Yuli Q.</TITLE>
+		<AUTHORS>Emi</AUTHORS>
+		<PUBLISHER>Xenos O. Park</PUBLISHER>
+		<COST>$7,991</COST>
+		<YEAR>Nov 30, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Harrell, Lael B.</TITLE>
+		<AUTHORS>Eagan</AUTHORS>
+		<PUBLISHER>Cassandra Y. Ford</PUBLISHER>
+		<COST>$6,820</COST>
+		<YEAR>Oct 14, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Osborne, Cameron X.</TITLE>
+		<AUTHORS>Cameran</AUTHORS>
+		<PUBLISHER>Galvin Keith</PUBLISHER>
+		<COST>$7,233</COST>
+		<YEAR>Nov 11, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Weeks, Barry H.</TITLE>
+		<AUTHORS>Mufutau</AUTHORS>
+		<PUBLISHER>Baxter F. Berger</PUBLISHER>
+		<COST>$6,390</COST>
+		<YEAR>Nov 14, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Moss, Dacey F.</TITLE>
+		<AUTHORS>Barbara</AUTHORS>
+		<PUBLISHER>Jeremy Dodson</PUBLISHER>
+		<COST>$8,562</COST>
+		<YEAR>Sep 5, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Baker, Alice O.</TITLE>
+		<AUTHORS>Kuame</AUTHORS>
+		<PUBLISHER>Willow T. Ortega</PUBLISHER>
+		<COST>$9,828</COST>
+		<YEAR>Jan 23, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Chandler, Miranda Y.</TITLE>
+		<AUTHORS>Tarik</AUTHORS>
+		<PUBLISHER>Rana D. Moreno</PUBLISHER>
+		<COST>$6,462</COST>
+		<YEAR>Sep 9, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Payne, Ezra T.</TITLE>
+		<AUTHORS>Garrett</AUTHORS>
+		<PUBLISHER>Lysandra Z. Roach</PUBLISHER>
+		<COST>$9,400</COST>
+		<YEAR>Apr 18, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Singleton, Gage E.</TITLE>
+		<AUTHORS>Shellie</AUTHORS>
+		<PUBLISHER>Pamela Huffman</PUBLISHER>
+		<COST>$9,467</COST>
+		<YEAR>Apr 13, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hopper, Grady V.</TITLE>
+		<AUTHORS>Harlan</AUTHORS>
+		<PUBLISHER>Nita U. Wiley</PUBLISHER>
+		<COST>$9,106</COST>
+		<YEAR>Aug 26, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Booker, Forrest Q.</TITLE>
+		<AUTHORS>Idona</AUTHORS>
+		<PUBLISHER>Orla Spence</PUBLISHER>
+		<COST>$8,277</COST>
+		<YEAR>Mar 26, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Gillespie, Dean K.</TITLE>
+		<AUTHORS>Damon</AUTHORS>
+		<PUBLISHER>Marvin Chapman</PUBLISHER>
+		<COST>$5,623</COST>
+		<YEAR>Feb 3, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Byers, Aladdin R.</TITLE>
+		<AUTHORS>Cheryl</AUTHORS>
+		<PUBLISHER>Dacey W. Shannon</PUBLISHER>
+		<COST>$5,587</COST>
+		<YEAR>Jun 4, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Johns, Bradley B.</TITLE>
+		<AUTHORS>Stacey</AUTHORS>
+		<PUBLISHER>Kylan E. Cochran</PUBLISHER>
+		<COST>$8,013</COST>
+		<YEAR>Apr 22, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Garner, Coby N.</TITLE>
+		<AUTHORS>Marcia</AUTHORS>
+		<PUBLISHER>MacKensie Y. Mendez</PUBLISHER>
+		<COST>$5,224</COST>
+		<YEAR>Jul 24, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Harper, Odette G.</TITLE>
+		<AUTHORS>Amelia</AUTHORS>
+		<PUBLISHER>Rebekah Schultz</PUBLISHER>
+		<COST>$8,416</COST>
+		<YEAR>Apr 3, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Frederick, Christine T.</TITLE>
+		<AUTHORS>Gregory</AUTHORS>
+		<PUBLISHER>Tyler Blanchard</PUBLISHER>
+		<COST>$8,637</COST>
+		<YEAR>Sep 2, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Bond, Olympia J.</TITLE>
+		<AUTHORS>Adrian</AUTHORS>
+		<PUBLISHER>Stephen E. Flynn</PUBLISHER>
+		<COST>$7,233</COST>
+		<YEAR>Jun 13, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rutledge, Francis F.</TITLE>
+		<AUTHORS>Aileen</AUTHORS>
+		<PUBLISHER>Orli T. Howe</PUBLISHER>
+		<COST>$6,175</COST>
+		<YEAR>Feb 11, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hanson, Kirsten U.</TITLE>
+		<AUTHORS>Scarlet</AUTHORS>
+		<PUBLISHER>Jared Weaver</PUBLISHER>
+		<COST>$7,575</COST>
+		<YEAR>Apr 17, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Mullen, Ray W.</TITLE>
+		<AUTHORS>Portia</AUTHORS>
+		<PUBLISHER>Hayden King</PUBLISHER>
+		<COST>$6,215</COST>
+		<YEAR>Jan 24, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Fry, Merritt F.</TITLE>
+		<AUTHORS>Eleanor</AUTHORS>
+		<PUBLISHER>Hope Allen</PUBLISHER>
+		<COST>$8,734</COST>
+		<YEAR>Dec 31, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Nash, Fuller L.</TITLE>
+		<AUTHORS>Hu</AUTHORS>
+		<PUBLISHER>Norman Byrd</PUBLISHER>
+		<COST>$6,688</COST>
+		<YEAR>Jun 2, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>French, Edan Q.</TITLE>
+		<AUTHORS>Gay</AUTHORS>
+		<PUBLISHER>Austin Baldwin</PUBLISHER>
+		<COST>$7,014</COST>
+		<YEAR>Oct 24, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Velez, Larissa B.</TITLE>
+		<AUTHORS>Tanya</AUTHORS>
+		<PUBLISHER>Rafael K. Morin</PUBLISHER>
+		<COST>$9,747</COST>
+		<YEAR>Sep 23, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Fitzgerald, Cole Q.</TITLE>
+		<AUTHORS>Zachery</AUTHORS>
+		<PUBLISHER>Yvonne Nolan</PUBLISHER>
+		<COST>$8,834</COST>
+		<YEAR>Oct 12, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Irwin, Sloane E.</TITLE>
+		<AUTHORS>Coby</AUTHORS>
+		<PUBLISHER>Amity Keller</PUBLISHER>
+		<COST>$7,618</COST>
+		<YEAR>Nov 28, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Coleman, Logan H.</TITLE>
+		<AUTHORS>Zena</AUTHORS>
+		<PUBLISHER>Blaine Navarro</PUBLISHER>
+		<COST>$8,202</COST>
+		<YEAR>Jun 20, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Greene, Duncan D.</TITLE>
+		<AUTHORS>Sydney</AUTHORS>
+		<PUBLISHER>Maris Gill</PUBLISHER>
+		<COST>$8,040</COST>
+		<YEAR>Oct 15, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Leon, Marvin F.</TITLE>
+		<AUTHORS>Robert</AUTHORS>
+		<PUBLISHER>Ruth Knowles</PUBLISHER>
+		<COST>$6,231</COST>
+		<YEAR>Dec 2, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Clements, Len F.</TITLE>
+		<AUTHORS>Ann</AUTHORS>
+		<PUBLISHER>Minerva Alvarado</PUBLISHER>
+		<COST>$5,107</COST>
+		<YEAR>Sep 28, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Robinson, Beau T.</TITLE>
+		<AUTHORS>Colorado</AUTHORS>
+		<PUBLISHER>Hector I. Anderson</PUBLISHER>
+		<COST>$8,478</COST>
+		<YEAR>May 18, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Lamb, Claudia W.</TITLE>
+		<AUTHORS>Alisa</AUTHORS>
+		<PUBLISHER>Flynn Q. Crosby</PUBLISHER>
+		<COST>$5,804</COST>
+		<YEAR>Jun 12, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Bowers, Cairo P.</TITLE>
+		<AUTHORS>Karen</AUTHORS>
+		<PUBLISHER>Ramona X. Sharp</PUBLISHER>
+		<COST>$7,461</COST>
+		<YEAR>Mar 23, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Wolf, Allistair B.</TITLE>
+		<AUTHORS>Acton</AUTHORS>
+		<PUBLISHER>Lester Farley</PUBLISHER>
+		<COST>$6,646</COST>
+		<YEAR>Sep 17, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Wade, Aiko P.</TITLE>
+		<AUTHORS>Gary</AUTHORS>
+		<PUBLISHER>Aaron B. Hendrix</PUBLISHER>
+		<COST>$9,187</COST>
+		<YEAR>Jun 15, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Tate, Portia W.</TITLE>
+		<AUTHORS>Logan</AUTHORS>
+		<PUBLISHER>Karina C. Evans</PUBLISHER>
+		<COST>$8,897</COST>
+		<YEAR>Feb 17, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rogers, Lara I.</TITLE>
+		<AUTHORS>Omar</AUTHORS>
+		<PUBLISHER>Rachel Hayes</PUBLISHER>
+		<COST>$7,150</COST>
+		<YEAR>Feb 2, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Parrish, Lucas Y.</TITLE>
+		<AUTHORS>Britanney</AUTHORS>
+		<PUBLISHER>Joelle J. Welch</PUBLISHER>
+		<COST>$8,199</COST>
+		<YEAR>Sep 14, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rutledge, Quin B.</TITLE>
+		<AUTHORS>Adria</AUTHORS>
+		<PUBLISHER>Felicia Frye</PUBLISHER>
+		<COST>$7,629</COST>
+		<YEAR>Jan 27, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Walter, Palmer D.</TITLE>
+		<AUTHORS>Veda</AUTHORS>
+		<PUBLISHER>Lysandra G. Frank</PUBLISHER>
+		<COST>$5,515</COST>
+		<YEAR>Jan 16, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Rosario, Sylvester F.</TITLE>
+		<AUTHORS>Kelly</AUTHORS>
+		<PUBLISHER>Cruz V. Cantrell</PUBLISHER>
+		<COST>$7,293</COST>
+		<YEAR>Jul 3, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Mueller, Daryl J.</TITLE>
+		<AUTHORS>Eliana</AUTHORS>
+		<PUBLISHER>Francis N. Beck</PUBLISHER>
+		<COST>$5,416</COST>
+		<YEAR>Feb 23, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Osborne, Destiny M.</TITLE>
+		<AUTHORS>Britanni</AUTHORS>
+		<PUBLISHER>Raja Q. Spears</PUBLISHER>
+		<COST>$6,260</COST>
+		<YEAR>Apr 2, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Lambert, Zephr H.</TITLE>
+		<AUTHORS>Marah</AUTHORS>
+		<PUBLISHER>Kareem Mckay</PUBLISHER>
+		<COST>$9,990</COST>
+		<YEAR>Feb 10, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Stewart, Lionel T.</TITLE>
+		<AUTHORS>Alexa</AUTHORS>
+		<PUBLISHER>Justin Alston</PUBLISHER>
+		<COST>$8,671</COST>
+		<YEAR>Feb 25, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Moran, Nora P.</TITLE>
+		<AUTHORS>Kerry</AUTHORS>
+		<PUBLISHER>Nehru H. Sosa</PUBLISHER>
+		<COST>$9,484</COST>
+		<YEAR>Sep 4, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Gutierrez, Fallon I.</TITLE>
+		<AUTHORS>Fallon</AUTHORS>
+		<PUBLISHER>Ulysses Y. Parrish</PUBLISHER>
+		<COST>$5,504</COST>
+		<YEAR>Mar 31, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hewitt, Brett U.</TITLE>
+		<AUTHORS>Melissa</AUTHORS>
+		<PUBLISHER>Dante Mann</PUBLISHER>
+		<COST>$7,492</COST>
+		<YEAR>May 3, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Johns, Wyoming U.</TITLE>
+		<AUTHORS>Galvin</AUTHORS>
+		<PUBLISHER>Kibo Simon</PUBLISHER>
+		<COST>$7,071</COST>
+		<YEAR>Jul 13, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Pena, Mason Y.</TITLE>
+		<AUTHORS>Keaton</AUTHORS>
+		<PUBLISHER>Harper L. Leach</PUBLISHER>
+		<COST>$9,753</COST>
+		<YEAR>May 28, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Johns, Ross Q.</TITLE>
+		<AUTHORS>Cody</AUTHORS>
+		<PUBLISHER>Preston U. Gay</PUBLISHER>
+		<COST>$8,278</COST>
+		<YEAR>Apr 22, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Leonard, Dustin X.</TITLE>
+		<AUTHORS>Dylan</AUTHORS>
+		<PUBLISHER>Cyrus T. Morris</PUBLISHER>
+		<COST>$7,666</COST>
+		<YEAR>Apr 15, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>York, Imelda O.</TITLE>
+		<AUTHORS>Cameran</AUTHORS>
+		<PUBLISHER>Jeremy E. Sloan</PUBLISHER>
+		<COST>$6,302</COST>
+		<YEAR>Jul 23, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Cochran, Claudia L.</TITLE>
+		<AUTHORS>Hillary</AUTHORS>
+		<PUBLISHER>Robin J. Walter</PUBLISHER>
+		<COST>$9,226</COST>
+		<YEAR>Dec 31, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Brooks, MacKenzie C.</TITLE>
+		<AUTHORS>Ferdinand</AUTHORS>
+		<PUBLISHER>Price B. Maxwell</PUBLISHER>
+		<COST>$8,354</COST>
+		<YEAR>Jan 11, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Gross, Wesley R.</TITLE>
+		<AUTHORS>Cade</AUTHORS>
+		<PUBLISHER>Hashim Knowles</PUBLISHER>
+		<COST>$6,290</COST>
+		<YEAR>Mar 25, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Duncan, Edward I.</TITLE>
+		<AUTHORS>Jael</AUTHORS>
+		<PUBLISHER>Cain U. Duke</PUBLISHER>
+		<COST>$8,492</COST>
+		<YEAR>Feb 19, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Bradshaw, Seth W.</TITLE>
+		<AUTHORS>Chaney</AUTHORS>
+		<PUBLISHER>Farrah Graves</PUBLISHER>
+		<COST>$8,334</COST>
+		<YEAR>Apr 17, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Harding, Tyrone M.</TITLE>
+		<AUTHORS>Clarke</AUTHORS>
+		<PUBLISHER>Cheyenne E. Lamb</PUBLISHER>
+		<COST>$8,907</COST>
+		<YEAR>Aug 9, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Fields, Kendall Y.</TITLE>
+		<AUTHORS>Prescott</AUTHORS>
+		<PUBLISHER>Yoshi U. Harrell</PUBLISHER>
+		<COST>$9,400</COST>
+		<YEAR>May 23, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Flynn, Lionel E.</TITLE>
+		<AUTHORS>Indira</AUTHORS>
+		<PUBLISHER>Ciaran J. Huff</PUBLISHER>
+		<COST>$7,209</COST>
+		<YEAR>Feb 21, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Oliver, Wynne C.</TITLE>
+		<AUTHORS>William</AUTHORS>
+		<PUBLISHER>Rahim C. Carroll</PUBLISHER>
+		<COST>$7,550</COST>
+		<YEAR>Nov 16, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Banks, Kennan W.</TITLE>
+		<AUTHORS>Abigail</AUTHORS>
+		<PUBLISHER>Scarlett B. Vance</PUBLISHER>
+		<COST>$6,495</COST>
+		<YEAR>Jun 15, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hooper, Ivory B.</TITLE>
+		<AUTHORS>Jasper</AUTHORS>
+		<PUBLISHER>Gary Barlow</PUBLISHER>
+		<COST>$7,933</COST>
+		<YEAR>Jan 13, 2022</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Church, Cullen P.</TITLE>
+		<AUTHORS>Laith</AUTHORS>
+		<PUBLISHER>Bertha Poole</PUBLISHER>
+		<COST>$5,130</COST>
+		<YEAR>Aug 2, 2020</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Grimes, Amy Q.</TITLE>
+		<AUTHORS>Hyacinth</AUTHORS>
+		<PUBLISHER>Quincy Wade</PUBLISHER>
+		<COST>$9,439</COST>
+		<YEAR>Jul 31, 2021</YEAR>
+	</BOOK>
+	<BOOK>
+		<TITLE>Hinton, Rashad D.</TITLE>
+		<AUTHORS>Mechelle</AUTHORS>
+		<PUBLISHER>Baker Casey</PUBLISHER>
+		<COST>$7,385</COST>
+		<YEAR>Oct 16, 2021</YEAR>
+	</BOOK>
+</CATALOG>
