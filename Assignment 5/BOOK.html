@@ -3,7 +3,7 @@
 <head></head>
 
 <body>
-    <h3> Enter first few characters of Artist's name </h3>
+    <h3> Enter first few characters of Author's name </h3>
     <input id="name" value="" onkeyup="suggest(this.value)" />
     <br>
     <br>
@@ -21,7 +21,7 @@
                 if (x.readyState == 4 && x.status == 200)
                     document.getElementById("display").innerHTML = x.responseText;
             }
-            x.open("GET", "cdr.php?q=" + h, true);
+            x.open("GET", "book.php?q=" + h, true);
             x.send();
         }
     </script>
