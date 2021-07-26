@@ -28,94 +28,6 @@
             color: #f0a500;
         }
         
-        input,
-        input[type="radio"]+label,
-        input[type="checkbox"]+label:before,
-        select option,
-        select {
-            width: 100%;
-            padding: 1em;
-            line-height: 1.4;
-            background-color: #f8f7f7;
-            border: 1px solid #e5e5e5;
-            border-radius: 3px;
-            -webkit-transition: 0.35s ease-in-out;
-            -moz-transition: 0.35s ease-in-out;
-            -o-transition: 0.35s ease-in-out;
-            transition: 0.35s ease-in-out;
-            transition: all 0.35s ease-in-out;
-        }
-        
-        input:focus {
-            outline: 0;
-            border-color: #bd8200;
-        }
-        
-        input:focus+.input-icon i {
-            color: #f0a500;
-        }
-        
-        input:focus+.input-icon:after {
-            border-right-color: #f0a500;
-        }
-        
-        .input-group {
-            margin-bottom: 1em;
-            zoom: 1;
-        }
-        
-        .input-group:before,
-        .input-group:after {
-            content: "";
-            display: table;
-        }
-        
-        .input-group:after {
-            clear: both;
-        }
-        
-        .input-group-icon {
-            position: relative;
-        }
-        
-        .input-group-icon input {
-            padding-left: 4.4em;
-        }
-        
-        .input-group-icon .input-icon {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 3.4em;
-            height: 3.4em;
-            line-height: 3.4em;
-            text-align: center;
-            pointer-events: none;
-        }
-        
-        .input-group-icon .input-icon:after {
-            position: absolute;
-            top: 0.6em;
-            bottom: 0.6em;
-            left: 3.4em;
-            display: block;
-            border-right: 1px solid #e5e5e5;
-            content: "";
-            -webkit-transition: 0.35s ease-in-out;
-            -moz-transition: 0.35s ease-in-out;
-            -o-transition: 0.35s ease-in-out;
-            transition: 0.35s ease-in-out;
-            transition: all 0.35s ease-in-out;
-        }
-        
-        .input-group-icon .input-icon i {
-            -webkit-transition: 0.35s ease-in-out;
-            -moz-transition: 0.35s ease-in-out;
-            -o-transition: 0.35s ease-in-out;
-            transition: 0.35s ease-in-out;
-            transition: all 0.35s ease-in-out;
-        }
-        
         .container {
             max-width: 38em;
             padding: 1em 3em 2em 3em;
@@ -123,40 +35,6 @@
             background-color: rgb(243, 237, 237);
             border-radius: 4.2px;
             box-shadow: 0px 3px 10px -2px rgba(204, 152, 152, 0.2);
-        }
-        
-        .row {
-            zoom: 1;
-        }
-        
-        .row:before,
-        .row:after {
-            content: "";
-            display: table;
-        }
-        
-        .row:after {
-            clear: both;
-        }
-        
-        .col-half {
-            padding-right: 10px;
-            float: left;
-            width: 50%;
-        }
-        
-        .col-half:last-of-type {
-            padding-right: 0;
-        }
-        
-        .col-third {
-            padding-right: 10px;
-            float: left;
-            width: 33.33333333%;
-        }
-        
-        .col-third:last-of-type {
-            padding-right: 0;
         }
         
         @media only screen and (max-width: 540px) {
@@ -177,6 +55,7 @@
             line-height: 1.4;
             background-color: #f8f7f7;
             border: 1px solid #e5e5e5;
+            color: #000;
         }
         
         .search-box input[type="text"] {
@@ -186,113 +65,52 @@
             font-size: 14px;
         }
         
-        .result {
-            position: absolute;
-            z-index: 999;
-            top: 100%;
-            left: 0;
-        }
-        
-        .search-box input[type="text"],
-        .result {
-            width: 100%;
-            box-sizing: border-box;
+        .show {
+            margin: 1em;
+            /* position: relative; */
+            /* display: inline-block; */
+            font-size: 15px;
+            cursor: grabbing;
+            /* width: 100%; */
+            padding: 1em;
+            background-color: #f1f1bb;
+            /* border: 1px solid #e5e5e5;*/
         }
         /* Formatting result items */
         
-        .result p {
-            margin: 0;
-            padding: 10px 10px 10px 10px;
-            border: 1px solid #110000;
-            background-color: #bd1c1c;
+        .child {
+            margin: 2em;
+            background-color: #c59f9f;
             color: #000;
-            border-top: none;
-            cursor: pointer;
-        }
-        
-        .result p:hover {
-            background: #2014cc;
+            position: relative;
+            font-size: 25px;
+            padding: 1em;
         }
     </style>
 
-    <script>
-        $(document).ready(function() {
-            $('.search-box input[type="text"]').on("keyup input", function() {
-                /* Get input value on change */
-                var inputVal = $(this).val();
-                var resultDropdown = $(this).siblings(".result");
-                if (inputVal.length) {
-                    $.get("backend-search.php", {
-                        term: inputVal
-                    }).done(function(data) {
-                        // Display the returned data in browser
-                        resultDropdown.html(data);
 
-                    });
-                } else {
-                    resultDropdown.empty();
-                }
-            });
-
-            // Set search input value on click of result item
-            $(document).on("click", ".result p", function() {
-                $(this).parents(".search-box").find('input[type="text"]').val($(this).text());
-
-                $(this).parent(".result").empty();
-
-            });
-
-        });
-    </script>
 </head>
 
 <body>
-
     <div class="container">
-        <form>
-            <div class="row">
-                <h4>AJAX Search</h4>
 
-                <div class="input-group input-group-icon">
-                    <div class="search-box">
-                        <input type="text" autocomplete="off" placeholder="First Name" />
-                        <div class="result"></div>
-                    </div>
+        <div class="row">
+            <h4>AJAX Search</h4>
+        </div>
+        <div class="input-group input-group-icon">
 
-                </div>
+            <div class="search-box">
 
+                <label>Enter Name</label>
 
-                <div class="input-group input-group-icon">
-                    <div class="search-box">
-                        <input type="text" placeholder="Last Name" />
-                        <div class="result"> </div>
-                    </div>
-
-                </div>
-                <!-- <div class="input-group input-group-icon">
-                    <div class="search-box">
-                        <input type="text" autocomplete="off" placeholder="Age" />
-                        <div class="result"></div>
-                    </div>
-
-                </div>
-                <div class="input-group input-group-icon">
-                    <div class="search-box">
-                        <input type="text" autocomplete="off" placeholder="Department" />
-                        <div class="result"></div>
-                    </div>
-
-                </div>
-                <div class="input-group input-group-icon">
-                    <div class="search-box">
-                        <input type="text" autocomplete="off" placeholder="Address" />
-                        <div class="result"></div>
-                    </div>
-
-                </div>-->
+                <input type="text" name="fname" autocomplete="off" placeholder="First Name" value="" onkeyup="suggest(this.value)">
+                <div class="show" id="hint" value="" onclick="info(event)"></div>
+                <div class="child" id="abt" value=""></div>
+                <script src="index.js"></script>
 
             </div>
-        </form>
+
+        </div>
     </div>
 </body>
 
